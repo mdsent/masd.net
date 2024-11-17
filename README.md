@@ -1,1 +1,1 @@
-# masd.net
+#cname/masd.net
